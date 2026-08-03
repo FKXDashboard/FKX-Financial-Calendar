@@ -1,0 +1,29 @@
+name: FKX Financial Calendar Mirror
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 13 * * 0"
+    - cron: "47 16 * * 0"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests python-dateutil
+      - run: python fetch_calendar.py
+      - name: Commit updated mirror
+        run: |
+          git config user.name "fkx-calendar-bot"
+          git config user.email "fkx-calendar-bot@users.noreply.github.com"
+          git add calendar/
+          git diff --cached --quiet && exit 0
+          git commit -m "Refresh FKX financial calendar"
+          git push
