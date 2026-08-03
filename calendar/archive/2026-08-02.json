@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "2.0",
+  "status": "CURRENT",
+  "generatedAt": "2026-08-03T11:32:00.332392-04:00",
+  "weekStart": "2026-08-02",
+  "weekEnd": "2026-08-08",
+  "source": "Fair Economy via JSON",
+  "diagnostics": [
+    {
+      "route": "json",
+      "url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "attempt": 1,
+      "http": 200,
+      "bytes": 13191
+    }
+  ],
+  "events": [
+    {
+      "dateTime": "2026-08-03T09:45:00-04:00",
+      "category": "ACTIVITY",
+      "title": "Final Manufacturing PMI",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-08-03|09:45|Final Manufacturing PMI"
+    },
+    {
+      "dateTime": "2026-08-03T10:00:00-04:00",
+      "category": "ACTIVITY",
+      "title": "ISM Manufacturing PMI",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-08-03|10:00|ISM Manufacturing PMI"
+    },
+    {
+      "dateTime": "2026-08-03T10:00:00-04:00",
+      "category": "ACTIVITY",
+      "title": "ISM Manufacturing Prices",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-08-03|10:00|ISM Manufacturing Prices"
+    },
+    {
+      "dateTime": "2026-08-04T08:30:00-04:00",
+      "category": "ACTIVITY",
+      "title": "Trade Balance",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-08-04|08:30|Trade Balance"
+    },
+    {
+      "dateTime": "2026-08-04T10:00:00-04:00",
+      "category": "LABOR",
+      "title": "JOLTS Job Openings",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-08-04|10:00|JOLTS Job Openings"
+    },
+    {
+      "dateTime": "2026-08-04T10:00:00-04:00",
+      "category": "ACTIVITY",
+      "title": "Factory Orders m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-08-04|10:00|Factory Orders m/m"
+    },
+    {
+      "dateTime": "2026-08-05T08:15:00-04:00",
+      "category": "LABOR",
+      "title": "ADP Non-Farm Employment Change",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-08-05|08:15|ADP Non-Farm Employment Change"
+    },
+    {
+      "dateTime": "2026-08-05T09:45:00-04:00",
+      "category": "ACTIVITY",
+      "title": "Final Services PMI",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-08-05|09:45|Final Services PMI"
+    },
+    {
+      "dateTime": "2026-08-05T10:00:00-04:00",
+      "category": "ACTIVITY",
+      "title": "ISM Services PMI",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-08-05|10:00|ISM Services PMI"
+    },
+    {
+      "dateTime": "2026-08-05T16:05:00-04:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Cook Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-08-05|16:05|FOMC Member Cook Speaks"
+    },
+    {
+      "dateTime": "2026-08-05T20:35:00-04:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Daly Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-08-05|20:35|FOMC Member Daly Speaks"
+    },
+    {
+      "dateTime": "2026-08-06T08:30:00-04:00",
+      "category": "LABOR",
+      "title": "Unemployment Claims",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-08-06|08:30|Unemployment Claims"
+    },
+    {
+      "dateTime": "2026-08-06T08:30:00-04:00",
+      "category": "ACTIVITY",
+      "title": "Prelim Nonfarm Productivity q/q",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-08-06|08:30|Prelim Nonfarm Productivity q/q"
+    },
+    {
+      "dateTime": "2026-08-06T08:30:00-04:00",
+      "category": "LABOR",
+      "title": "Prelim Unit Labor Costs q/q",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-08-06|08:30|Prelim Unit Labor Costs q/q"
+    },
+    {
+      "dateTime": "2026-08-06T10:00:00-04:00",
+      "category": "ACTIVITY",
+      "title": "Final Wholesale Inventories m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-08-06|10:00|Final Wholesale Inventories m/m"
+    },
+    {
+      "dateTime": "2026-08-06T17:30:00-04:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Musalem Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-08-06|17:30|FOMC Member Musalem Speaks"
+    },
+    {
+      "dateTime": "2026-08-07T08:30:00-04:00",
+      "category": "LABOR",
+      "title": "Average Hourly Earnings m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-08-07|08:30|Average Hourly Earnings m/m"
+    },
+    {
+      "dateTime": "2026-08-07T08:30:00-04:00",
+      "category": "LABOR",
+      "title": "Non-Farm Employment Change",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-08-07|08:30|Non-Farm Employment Change"
+    },
+    {
+      "dateTime": "2026-08-07T08:30:00-04:00",
+      "category": "LABOR",
+      "title": "Unemployment Rate",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-08-07|08:30|Unemployment Rate"
+    },
+    {
+      "dateTime": "2026-08-07T10:00:00-04:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Barkin Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-08-07|10:00|FOMC Member Barkin Speaks"
+    },
+    {
+      "dateTime": "2026-08-08T12:45:00-04:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Bowman Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-08-08|12:45|FOMC Member Bowman Speaks"
+    }
+  ]
+}
