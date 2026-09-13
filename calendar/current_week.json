@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "status": "CURRENT",
-  "generatedAt": "2026-09-13T12:57:55.218363-04:00",
+  "generatedAt": "2026-09-13T14:57:33.215602-04:00",
   "weekStart": "2026-09-13",
   "weekEnd": "2026-09-19",
   "source": "Fair Economy via JSON",
@@ -11,7 +11,7 @@
       "url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "attempt": 1,
       "http": 200,
-      "bytes": 13012
+      "bytes": 13017
     }
   ],
   "events": [
