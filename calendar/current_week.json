@@ -1,9 +1,9 @@
 {
   "schemaVersion": "2.0",
   "status": "CURRENT",
-  "generatedAt": "2026-10-04T15:48:10.144376-04:00",
-  "weekStart": "2026-10-04",
-  "weekEnd": "2026-10-10",
+  "generatedAt": "2026-10-11T14:03:38.673729-04:00",
+  "weekStart": "2026-10-11",
+  "weekEnd": "2026-10-17",
   "source": "Fair Economy via JSON",
   "diagnostics": [
     {
@@ -11,100 +11,184 @@
       "url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
       "attempt": 1,
       "http": 200,
-      "bytes": 10658
+      "bytes": 14488
     }
   ],
   "events": [
     {
-      "dateTime": "2026-10-05T09:45:00-04:00",
-      "category": "ACTIVITY",
-      "title": "Final Services PMI",
+      "dateTime": "2026-10-12T12:10:00-04:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Hammack Speaks",
       "source": "FairEconomy-JSON",
-      "eventKey": "2026-10-05|09:45|Final Services PMI"
+      "eventKey": "2026-10-12|12:10|FOMC Member Hammack Speaks"
     },
     {
-      "dateTime": "2026-10-05T10:00:00-04:00",
-      "category": "ACTIVITY",
-      "title": "ISM Services PMI",
+      "dateTime": "2026-10-13T03:45:00-04:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Waller Speaks",
       "source": "FairEconomy-JSON",
-      "eventKey": "2026-10-05|10:00|ISM Services PMI"
+      "eventKey": "2026-10-13|03:45|FOMC Member Waller Speaks"
     },
     {
-      "dateTime": "2026-10-06T08:15:00-04:00",
+      "dateTime": "2026-10-13T08:15:00-04:00",
       "category": "LABOR",
       "title": "ADP Weekly Employment Change",
       "source": "FairEconomy-JSON",
-      "eventKey": "2026-10-06|08:15|ADP Weekly Employment Change"
+      "eventKey": "2026-10-13|08:15|ADP Weekly Employment Change"
     },
     {
-      "dateTime": "2026-10-06T08:16:00-04:00",
-      "category": "LABOR",
-      "title": "ADP Weekly Employment Change",
+      "dateTime": "2026-10-13T10:00:00-04:00",
+      "category": "HOUSING",
+      "title": "Existing Home Sales",
       "source": "FairEconomy-JSON",
-      "eventKey": "2026-10-06|08:16|ADP Weekly Employment Change"
+      "eventKey": "2026-10-13|10:00|Existing Home Sales"
     },
     {
-      "dateTime": "2026-10-06T08:30:00-04:00",
-      "category": "ACTIVITY",
-      "title": "Trade Balance",
-      "source": "FairEconomy-JSON",
-      "eventKey": "2026-10-06|08:30|Trade Balance"
-    },
-    {
-      "dateTime": "2026-10-06T10:45:00-04:00",
+      "dateTime": "2026-10-13T13:00:00-04:00",
       "category": "FOMC / FED",
-      "title": "FOMC Member Bowman Speaks",
+      "title": "FOMC Member Barkin Speaks",
       "source": "FairEconomy-JSON",
-      "eventKey": "2026-10-06|10:45|FOMC Member Bowman Speaks"
+      "eventKey": "2026-10-13|13:00|FOMC Member Barkin Speaks"
     },
     {
-      "dateTime": "2026-10-07T14:00:00-04:00",
-      "category": "FOMC / FED",
-      "title": "FOMC Meeting Minutes",
-      "source": "FairEconomy-JSON",
-      "eventKey": "2026-10-07|14:00|FOMC Meeting Minutes"
-    },
-    {
-      "dateTime": "2026-10-08T08:30:00-04:00",
-      "category": "LABOR",
-      "title": "Unemployment Claims",
-      "source": "FairEconomy-JSON",
-      "eventKey": "2026-10-08|08:30|Unemployment Claims"
-    },
-    {
-      "dateTime": "2026-10-08T10:00:00-04:00",
-      "category": "ACTIVITY",
-      "title": "Final Wholesale Inventories m/m",
-      "source": "FairEconomy-JSON",
-      "eventKey": "2026-10-08|10:00|Final Wholesale Inventories m/m"
-    },
-    {
-      "dateTime": "2026-10-08T13:40:00-04:00",
-      "category": "FOMC / FED",
-      "title": "FOMC Member Musalem Speaks",
-      "source": "FairEconomy-JSON",
-      "eventKey": "2026-10-08|13:40|FOMC Member Musalem Speaks"
-    },
-    {
-      "dateTime": "2026-10-09T10:00:00-04:00",
-      "category": "CONSUMER",
-      "title": "Prelim UoM Consumer Sentiment",
-      "source": "FairEconomy-JSON",
-      "eventKey": "2026-10-09|10:00|Prelim UoM Consumer Sentiment"
-    },
-    {
-      "dateTime": "2026-10-09T10:00:00-04:00",
-      "category": "INFLATION",
-      "title": "Prelim UoM Inflation Expectations",
-      "source": "FairEconomy-JSON",
-      "eventKey": "2026-10-09|10:00|Prelim UoM Inflation Expectations"
-    },
-    {
-      "dateTime": "2026-10-09T16:00:00-04:00",
+      "dateTime": "2026-10-13T16:00:00-04:00",
       "category": "FOMC / FED",
       "title": "FOMC Member Collins Speaks",
       "source": "FairEconomy-JSON",
-      "eventKey": "2026-10-09|16:00|FOMC Member Collins Speaks"
+      "eventKey": "2026-10-13|16:00|FOMC Member Collins Speaks"
+    },
+    {
+      "dateTime": "2026-10-14T05:40:00-04:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Bowman Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-14|05:40|FOMC Member Bowman Speaks"
+    },
+    {
+      "dateTime": "2026-10-14T08:30:00-04:00",
+      "category": "INFLATION",
+      "title": "Core CPI m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-14|08:30|Core CPI m/m"
+    },
+    {
+      "dateTime": "2026-10-14T08:30:00-04:00",
+      "category": "INFLATION",
+      "title": "Core CPI y/y",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-14|08:30|Core CPI y/y"
+    },
+    {
+      "dateTime": "2026-10-14T08:30:00-04:00",
+      "category": "INFLATION",
+      "title": "CPI m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-14|08:30|CPI m/m"
+    },
+    {
+      "dateTime": "2026-10-14T08:30:00-04:00",
+      "category": "INFLATION",
+      "title": "CPI y/y",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-14|08:30|CPI y/y"
+    },
+    {
+      "dateTime": "2026-10-14T13:30:00-04:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Barkin Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-14|13:30|FOMC Member Barkin Speaks"
+    },
+    {
+      "dateTime": "2026-10-14T14:00:00-04:00",
+      "category": "FOMC / FED",
+      "title": "Beige Book",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-14|14:00|Beige Book"
+    },
+    {
+      "dateTime": "2026-10-14T22:55:00-04:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Bowman Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-14|22:55|FOMC Member Bowman Speaks"
+    },
+    {
+      "dateTime": "2026-10-15T08:30:00-04:00",
+      "category": "INFLATION",
+      "title": "Core PPI m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-15|08:30|Core PPI m/m"
+    },
+    {
+      "dateTime": "2026-10-15T08:30:00-04:00",
+      "category": "ACTIVITY",
+      "title": "Core Retail Sales m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-15|08:30|Core Retail Sales m/m"
+    },
+    {
+      "dateTime": "2026-10-15T08:30:00-04:00",
+      "category": "INFLATION",
+      "title": "PPI m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-15|08:30|PPI m/m"
+    },
+    {
+      "dateTime": "2026-10-15T08:30:00-04:00",
+      "category": "ACTIVITY",
+      "title": "Retail Sales m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-15|08:30|Retail Sales m/m"
+    },
+    {
+      "dateTime": "2026-10-15T08:30:00-04:00",
+      "category": "LABOR",
+      "title": "Unemployment Claims",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-15|08:30|Unemployment Claims"
+    },
+    {
+      "dateTime": "2026-10-15T10:00:00-04:00",
+      "category": "ACTIVITY",
+      "title": "Business Inventories m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-15|10:00|Business Inventories m/m"
+    },
+    {
+      "dateTime": "2026-10-15T16:30:00-04:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Hammack Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-15|16:30|FOMC Member Hammack Speaks"
+    },
+    {
+      "dateTime": "2026-10-15T23:30:00-04:00",
+      "category": "FOMC / FED",
+      "title": "Fed Chairman Warsh Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-15|23:30|Fed Chairman Warsh Speaks"
+    },
+    {
+      "dateTime": "2026-10-16T08:30:00-04:00",
+      "category": "INFLATION",
+      "title": "Import Prices m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-16|08:30|Import Prices m/m"
+    },
+    {
+      "dateTime": "2026-10-16T09:15:00-04:00",
+      "category": "ACTIVITY",
+      "title": "Capacity Utilization Rate",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-16|09:15|Capacity Utilization Rate"
+    },
+    {
+      "dateTime": "2026-10-16T09:15:00-04:00",
+      "category": "ACTIVITY",
+      "title": "Industrial Production m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-16|09:15|Industrial Production m/m"
     }
   ]
 }
