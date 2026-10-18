@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "2.0",
+  "status": "CURRENT",
+  "generatedAt": "2026-10-18T12:30:39.868803-04:00",
+  "weekStart": "2026-10-18",
+  "weekEnd": "2026-10-24",
+  "source": "Fair Economy via JSON",
+  "diagnostics": [
+    {
+      "route": "json",
+      "url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "attempt": 1,
+      "http": 200,
+      "bytes": 11596
+    }
+  ],
+  "events": [
+    {
+      "dateTime": "2026-10-19T10:00:00-04:00",
+      "category": "HOUSING",
+      "title": "NAHB Housing Market Index",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-19|10:00|NAHB Housing Market Index"
+    },
+    {
+      "dateTime": "2026-10-20T08:15:00-04:00",
+      "category": "LABOR",
+      "title": "ADP Weekly Employment Change",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-20|08:15|ADP Weekly Employment Change"
+    },
+    {
+      "dateTime": "2026-10-20T08:30:00-04:00",
+      "category": "HOUSING",
+      "title": "Building Permits",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-20|08:30|Building Permits"
+    },
+    {
+      "dateTime": "2026-10-20T08:30:00-04:00",
+      "category": "HOUSING",
+      "title": "Housing Starts",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-20|08:30|Housing Starts"
+    },
+    {
+      "dateTime": "2026-10-20T10:00:00-04:00",
+      "category": "HOUSING",
+      "title": "Pending Home Sales m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-20|10:00|Pending Home Sales m/m"
+    },
+    {
+      "dateTime": "2026-10-22T08:30:00-04:00",
+      "category": "LABOR",
+      "title": "Unemployment Claims",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-22|08:30|Unemployment Claims"
+    },
+    {
+      "dateTime": "2026-10-22T10:00:00-04:00",
+      "category": "ACTIVITY",
+      "title": "CB Leading Index m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-22|10:00|CB Leading Index m/m"
+    },
+    {
+      "dateTime": "2026-10-23T09:45:00-04:00",
+      "category": "ACTIVITY",
+      "title": "Flash Manufacturing PMI",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-23|09:45|Flash Manufacturing PMI"
+    },
+    {
+      "dateTime": "2026-10-23T09:45:00-04:00",
+      "category": "ACTIVITY",
+      "title": "Flash Services PMI",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-23|09:45|Flash Services PMI"
+    },
+    {
+      "dateTime": "2026-10-23T10:00:00-04:00",
+      "category": "CONSUMER",
+      "title": "Revised UoM Consumer Sentiment",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-23|10:00|Revised UoM Consumer Sentiment"
+    },
+    {
+      "dateTime": "2026-10-23T10:00:00-04:00",
+      "category": "INFLATION",
+      "title": "Revised UoM Inflation Expectations",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-10-23|10:00|Revised UoM Inflation Expectations"
+    }
+  ]
+}
