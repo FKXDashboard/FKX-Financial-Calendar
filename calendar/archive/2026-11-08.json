@@ -1,0 +1,222 @@
+{
+  "schemaVersion": "2.0",
+  "status": "CURRENT",
+  "generatedAt": "2026-11-08T13:20:14.073960-05:00",
+  "weekStart": "2026-11-08",
+  "weekEnd": "2026-11-14",
+  "source": "Fair Economy via JSON",
+  "diagnostics": [
+    {
+      "route": "json",
+      "url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "attempt": 1,
+      "http": 200,
+      "bytes": 13516
+    }
+  ],
+  "events": [
+    {
+      "dateTime": "2026-11-09T08:40:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Bowman Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-09|08:40|FOMC Member Bowman Speaks"
+    },
+    {
+      "dateTime": "2026-11-09T10:00:00-05:00",
+      "category": "ACTIVITY",
+      "title": "Final Wholesale Inventories m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-09|10:00|Final Wholesale Inventories m/m"
+    },
+    {
+      "dateTime": "2026-11-09T10:00:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Goolsbee Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-09|10:00|FOMC Member Goolsbee Speaks"
+    },
+    {
+      "dateTime": "2026-11-09T12:15:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Barkin Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-09|12:15|FOMC Member Barkin Speaks"
+    },
+    {
+      "dateTime": "2026-11-10T04:00:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Waller Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-10|04:00|FOMC Member Waller Speaks"
+    },
+    {
+      "dateTime": "2026-11-10T08:15:00-05:00",
+      "category": "LABOR",
+      "title": "ADP Weekly Employment Change",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-10|08:15|ADP Weekly Employment Change"
+    },
+    {
+      "dateTime": "2026-11-10T08:16:00-05:00",
+      "category": "LABOR",
+      "title": "ADP Weekly Employment Change",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-10|08:16|ADP Weekly Employment Change"
+    },
+    {
+      "dateTime": "2026-11-10T08:30:00-05:00",
+      "category": "INFLATION",
+      "title": "Core CPI m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-10|08:30|Core CPI m/m"
+    },
+    {
+      "dateTime": "2026-11-10T08:30:00-05:00",
+      "category": "INFLATION",
+      "title": "CPI m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-10|08:30|CPI m/m"
+    },
+    {
+      "dateTime": "2026-11-10T10:50:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Logan Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-10|10:50|FOMC Member Logan Speaks"
+    },
+    {
+      "dateTime": "2026-11-10T13:30:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Schmid Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-10|13:30|FOMC Member Schmid Speaks"
+    },
+    {
+      "dateTime": "2026-11-10T15:30:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Bowman Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-10|15:30|FOMC Member Bowman Speaks"
+    },
+    {
+      "dateTime": "2026-11-10T18:30:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Bowman Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-10|18:30|FOMC Member Bowman Speaks"
+    },
+    {
+      "dateTime": "2026-11-10T18:30:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Paulson Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-10|18:30|FOMC Member Paulson Speaks"
+    },
+    {
+      "dateTime": "2026-11-12T08:30:00-05:00",
+      "category": "LABOR",
+      "title": "Unemployment Claims",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-12|08:30|Unemployment Claims"
+    },
+    {
+      "dateTime": "2026-11-12T09:00:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Hammack Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-12|09:00|FOMC Member Hammack Speaks"
+    },
+    {
+      "dateTime": "2026-11-12T10:00:00-05:00",
+      "category": "HOUSING",
+      "title": "Existing Home Sales",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-12|10:00|Existing Home Sales"
+    },
+    {
+      "dateTime": "2026-11-12T10:00:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Barr Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-12|10:00|FOMC Member Barr Speaks"
+    },
+    {
+      "dateTime": "2026-11-12T10:00:00-05:00",
+      "category": "MORTGAGES",
+      "title": "Mortgage Delinquencies",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-12|10:00|Mortgage Delinquencies"
+    },
+    {
+      "dateTime": "2026-11-12T11:30:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Goolsbee Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-12|11:30|FOMC Member Goolsbee Speaks"
+    },
+    {
+      "dateTime": "2026-11-12T13:10:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Daly Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-12|13:10|FOMC Member Daly Speaks"
+    },
+    {
+      "dateTime": "2026-11-12T13:30:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Schmid Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-12|13:30|FOMC Member Schmid Speaks"
+    },
+    {
+      "dateTime": "2026-11-12T18:30:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Williams Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-12|18:30|FOMC Member Williams Speaks"
+    },
+    {
+      "dateTime": "2026-11-13T08:30:00-05:00",
+      "category": "INFLATION",
+      "title": "Core PPI m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-13|08:30|Core PPI m/m"
+    },
+    {
+      "dateTime": "2026-11-13T08:30:00-05:00",
+      "category": "INFLATION",
+      "title": "PPI m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-13|08:30|PPI m/m"
+    },
+    {
+      "dateTime": "2026-11-13T09:10:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Collins Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-13|09:10|FOMC Member Collins Speaks"
+    },
+    {
+      "dateTime": "2026-11-13T10:50:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Bowman Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-13|10:50|FOMC Member Bowman Speaks"
+    },
+    {
+      "dateTime": "2026-11-13T12:00:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Daly Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-13|12:00|FOMC Member Daly Speaks"
+    },
+    {
+      "dateTime": "2026-11-13T19:00:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Jefferson Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-13|19:00|FOMC Member Jefferson Speaks"
+    }
+  ]
+}
