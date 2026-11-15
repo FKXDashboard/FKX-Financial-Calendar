@@ -1,0 +1,264 @@
+{
+  "schemaVersion": "2.0",
+  "status": "CURRENT",
+  "generatedAt": "2026-11-15T14:21:45.734294-05:00",
+  "weekStart": "2026-11-15",
+  "weekEnd": "2026-11-21",
+  "source": "Fair Economy via JSON",
+  "diagnostics": [
+    {
+      "route": "json",
+      "url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "attempt": 1,
+      "http": 200,
+      "bytes": 16043
+    }
+  ],
+  "events": [
+    {
+      "dateTime": "2026-11-16T05:00:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Barr Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-16|05:00|FOMC Member Barr Speaks"
+    },
+    {
+      "dateTime": "2026-11-16T09:05:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Williams Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-16|09:05|FOMC Member Williams Speaks"
+    },
+    {
+      "dateTime": "2026-11-16T09:48:00-05:00",
+      "category": "INFLATION",
+      "title": "Cleveland Fed Inflation Expectations",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-16|09:48|Cleveland Fed Inflation Expectations"
+    },
+    {
+      "dateTime": "2026-11-16T12:00:00-05:00",
+      "category": "FOMC / FED",
+      "title": "Fed Chairman Warsh Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-16|12:00|Fed Chairman Warsh Speaks"
+    },
+    {
+      "dateTime": "2026-11-17T07:30:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Musalem Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-17|07:30|FOMC Member Musalem Speaks"
+    },
+    {
+      "dateTime": "2026-11-17T08:15:00-05:00",
+      "category": "LABOR",
+      "title": "ADP Weekly Employment Change",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-17|08:15|ADP Weekly Employment Change"
+    },
+    {
+      "dateTime": "2026-11-17T08:30:00-05:00",
+      "category": "ACTIVITY",
+      "title": "Core Retail Sales m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-17|08:30|Core Retail Sales m/m"
+    },
+    {
+      "dateTime": "2026-11-17T08:30:00-05:00",
+      "category": "ACTIVITY",
+      "title": "Retail Sales m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-17|08:30|Retail Sales m/m"
+    },
+    {
+      "dateTime": "2026-11-17T08:30:00-05:00",
+      "category": "INFLATION",
+      "title": "Import Prices m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-17|08:30|Import Prices m/m"
+    },
+    {
+      "dateTime": "2026-11-17T09:10:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Waller Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-17|09:10|FOMC Member Waller Speaks"
+    },
+    {
+      "dateTime": "2026-11-17T09:15:00-05:00",
+      "category": "ACTIVITY",
+      "title": "Capacity Utilization Rate",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-17|09:15|Capacity Utilization Rate"
+    },
+    {
+      "dateTime": "2026-11-17T09:15:00-05:00",
+      "category": "ACTIVITY",
+      "title": "Industrial Production m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-17|09:15|Industrial Production m/m"
+    },
+    {
+      "dateTime": "2026-11-17T09:30:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Hammack Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-17|09:30|FOMC Member Hammack Speaks"
+    },
+    {
+      "dateTime": "2026-11-17T10:00:00-05:00",
+      "category": "ACTIVITY",
+      "title": "Business Inventories m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-17|10:00|Business Inventories m/m"
+    },
+    {
+      "dateTime": "2026-11-17T10:00:00-05:00",
+      "category": "HOUSING",
+      "title": "NAHB Housing Market Index",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-17|10:00|NAHB Housing Market Index"
+    },
+    {
+      "dateTime": "2026-11-17T14:25:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Williams Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-17|14:25|FOMC Member Williams Speaks"
+    },
+    {
+      "dateTime": "2026-11-18T08:30:00-05:00",
+      "category": "HOUSING",
+      "title": "Building Permits",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-18|08:30|Building Permits"
+    },
+    {
+      "dateTime": "2026-11-18T08:30:00-05:00",
+      "category": "HOUSING",
+      "title": "Housing Starts",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-18|08:30|Housing Starts"
+    },
+    {
+      "dateTime": "2026-11-18T10:00:00-05:00",
+      "category": "HOUSING",
+      "title": "Pending Home Sales m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-18|10:00|Pending Home Sales m/m"
+    },
+    {
+      "dateTime": "2026-11-18T13:35:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Barr Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-18|13:35|FOMC Member Barr Speaks"
+    },
+    {
+      "dateTime": "2026-11-18T14:00:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Meeting Minutes",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-18|14:00|FOMC Meeting Minutes"
+    },
+    {
+      "dateTime": "2026-11-18T14:30:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Williams Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-18|14:30|FOMC Member Williams Speaks"
+    },
+    {
+      "dateTime": "2026-11-18T16:15:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Kashkari Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-18|16:15|FOMC Member Kashkari Speaks"
+    },
+    {
+      "dateTime": "2026-11-19T08:30:00-05:00",
+      "category": "LABOR",
+      "title": "Unemployment Claims",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-19|08:30|Unemployment Claims"
+    },
+    {
+      "dateTime": "2026-11-19T08:50:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Hammack Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-19|08:50|FOMC Member Hammack Speaks"
+    },
+    {
+      "dateTime": "2026-11-19T10:00:00-05:00",
+      "category": "ACTIVITY",
+      "title": "CB Leading Index m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-19|10:00|CB Leading Index m/m"
+    },
+    {
+      "dateTime": "2026-11-19T10:15:00-05:00",
+      "category": "MORTGAGES",
+      "title": "Mortgage Delinquencies",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-19|10:15|Mortgage Delinquencies"
+    },
+    {
+      "dateTime": "2026-11-19T12:30:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Goolsbee Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-19|12:30|FOMC Member Goolsbee Speaks"
+    },
+    {
+      "dateTime": "2026-11-19T14:15:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Barr Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-19|14:15|FOMC Member Barr Speaks"
+    },
+    {
+      "dateTime": "2026-11-19T16:00:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Barkin Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-19|16:00|FOMC Member Barkin Speaks"
+    },
+    {
+      "dateTime": "2026-11-19T18:30:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Paulson Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-19|18:30|FOMC Member Paulson Speaks"
+    },
+    {
+      "dateTime": "2026-11-20T08:25:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Waller Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-20|08:25|FOMC Member Waller Speaks"
+    },
+    {
+      "dateTime": "2026-11-20T10:00:00-05:00",
+      "category": "CONSUMER",
+      "title": "Revised UoM Consumer Sentiment",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-20|10:00|Revised UoM Consumer Sentiment"
+    },
+    {
+      "dateTime": "2026-11-20T10:00:00-05:00",
+      "category": "INFLATION",
+      "title": "Revised UoM Inflation Expectations",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-20|10:00|Revised UoM Inflation Expectations"
+    },
+    {
+      "dateTime": "2026-11-20T12:15:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Cook Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-20|12:15|FOMC Member Cook Speaks"
+    }
+  ]
+}
