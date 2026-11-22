@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.0",
+  "status": "CURRENT",
+  "generatedAt": "2026-11-22T15:19:15.897387-05:00",
+  "weekStart": "2026-11-22",
+  "weekEnd": "2026-11-28",
+  "source": "Fair Economy via JSON",
+  "diagnostics": [
+    {
+      "route": "json",
+      "url": "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+      "attempt": 1,
+      "http": 200,
+      "bytes": 10195
+    }
+  ],
+  "events": [
+    {
+      "dateTime": "2026-11-23T09:45:00-05:00",
+      "category": "ACTIVITY",
+      "title": "Flash Manufacturing PMI",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-23|09:45|Flash Manufacturing PMI"
+    },
+    {
+      "dateTime": "2026-11-23T09:45:00-05:00",
+      "category": "ACTIVITY",
+      "title": "Flash Services PMI",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-23|09:45|Flash Services PMI"
+    },
+    {
+      "dateTime": "2026-11-23T16:00:00-05:00",
+      "category": "FOMC / FED",
+      "title": "FOMC Member Williams Speaks",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-23|16:00|FOMC Member Williams Speaks"
+    },
+    {
+      "dateTime": "2026-11-24T08:15:00-05:00",
+      "category": "LABOR",
+      "title": "ADP Weekly Employment Change",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-24|08:15|ADP Weekly Employment Change"
+    },
+    {
+      "dateTime": "2026-11-24T10:00:00-05:00",
+      "category": "CONSUMER",
+      "title": "CB Consumer Confidence",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-24|10:00|CB Consumer Confidence"
+    },
+    {
+      "dateTime": "2026-11-25T08:30:00-05:00",
+      "category": "INFLATION",
+      "title": "Core PCE Price Index m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-25|08:30|Core PCE Price Index m/m"
+    },
+    {
+      "dateTime": "2026-11-25T08:30:00-05:00",
+      "category": "ACTIVITY",
+      "title": "Prelim GDP q/q",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-25|08:30|Prelim GDP q/q"
+    },
+    {
+      "dateTime": "2026-11-25T08:30:00-05:00",
+      "category": "ACTIVITY",
+      "title": "Prelim GDP Price Index q/q",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-25|08:30|Prelim GDP Price Index q/q"
+    },
+    {
+      "dateTime": "2026-11-25T08:30:00-05:00",
+      "category": "LABOR",
+      "title": "Unemployment Claims",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-25|08:30|Unemployment Claims"
+    },
+    {
+      "dateTime": "2026-11-25T08:30:00-05:00",
+      "category": "ACTIVITY",
+      "title": "Core Durable Goods Orders m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-25|08:30|Core Durable Goods Orders m/m"
+    },
+    {
+      "dateTime": "2026-11-25T08:30:00-05:00",
+      "category": "ACTIVITY",
+      "title": "Durable Goods Orders m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-25|08:30|Durable Goods Orders m/m"
+    },
+    {
+      "dateTime": "2026-11-25T10:00:00-05:00",
+      "category": "HOUSING",
+      "title": "New Home Sales",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-25|10:00|New Home Sales"
+    },
+    {
+      "dateTime": "2026-11-25T14:00:00-05:00",
+      "category": "FOMC / FED",
+      "title": "Beige Book",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-25|14:00|Beige Book"
+    },
+    {
+      "dateTime": "2026-11-27T08:30:00-05:00",
+      "category": "ACTIVITY",
+      "title": "Goods Trade Balance",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-27|08:30|Goods Trade Balance"
+    },
+    {
+      "dateTime": "2026-11-27T08:30:00-05:00",
+      "category": "ACTIVITY",
+      "title": "Prelim Wholesale Inventories m/m",
+      "source": "FairEconomy-JSON",
+      "eventKey": "2026-11-27|08:30|Prelim Wholesale Inventories m/m"
+    }
+  ]
+}
